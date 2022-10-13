@@ -1,0 +1,17 @@
+{
+  "name": "primer-proyecto-node",
+  "version": "1.0.0",
+  "description": "Primer proyecto de JavaScript en OpenBooCamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio-01": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+   
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Francisco Paneque",
+  "license": "ISC"
+}
